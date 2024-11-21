@@ -8,10 +8,11 @@
 <h3> A Full Stack Developer,and A Smart Contract Developer </h3>
 <p> I specialize in creating robust, secure, and innovative solutions. With over a year of hands-on experience, I craft efficient and user-centric digital experiences, ranging from web applications to decentralized platforms.
 My expertise spans modern web technologies, smart contract development on blockchain networks, and leveraging cutting-edge tools and frameworks. I am passionate about delivering high-impact solutions that bridge the gap between traditional and decentralized technologies.</p>
+<br/>
 
 
 <a href="https://app.daily.dev/kanas_jnr"><img src="https://api.daily.dev/devcards/v2/VVienUsiOWsFlCAPm25kl.png?type=wide&r=u0s" width="652" alt="Kanas's Dev Card"/></a>
-
+<br/>
 
 ### About Me:
 * 🖥️  See my portfolio at [Kanas](https://my-portfolio-n6psv0xs6-kanasjnrs-projects.vercel.app/)
@@ -20,9 +21,6 @@ My expertise spans modern web technologies, smart contract development on blockc
 * 🚀  I'm open for collaborations and jobs
 * 🧠  I'm currently learning Solidity 
 
-
-
-<br/>
 <br/>
 <br/>
 
@@ -32,6 +30,21 @@ My expertise spans modern web technologies, smart contract development on blockc
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/KanasJnr)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nasihudeen04@gmail.com)
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
+</p>
 
 
 
