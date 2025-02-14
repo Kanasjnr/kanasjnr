@@ -18,7 +18,7 @@ My expertise spans modern web technologies, smart contract development on blockc
 * ✍️  Check out my contents at [Medium](https://medium.com/@nasihudeen04) 
 * ✉️  You can contact me via [Mail](mailto:nasihudeen04@gmail.com)
 * 🚀  I'm open for collaborations and jobs
-* 🧠  I'm currently learning Solidity 
+* 🧠  I'm currently learning Rust 
 
 <br/>
 <br/>
