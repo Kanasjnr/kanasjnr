@@ -49,7 +49,7 @@ My expertise spans modern web technologies, smart contract development on blockc
 
 ### Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanasjnr&langs_count=8&layout=compact&theme=transparent" />
-</a> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanasjnr&show_icons=true&locale=en&layout=compact" alt="kanasjnr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanasjnr&show_icons=true&locale=en" alt="kanasjnr" /></p>
