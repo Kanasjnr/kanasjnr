@@ -14,7 +14,6 @@ My expertise spans modern web technologies, smart contract development on blockc
 <br/>
 
 ### About Me:
-* 🖥️  See my portfolio at [Kanas](https://my-portfolio-n6psv0xs6-kanasjnrs-projects.vercel.app/)
 * ✍️  Check out my contents at [Medium](https://medium.com/@nasihudeen04) 
 * ✉️  You can contact me via [Mail](mailto:nasihudeen04@gmail.com)
 * 🚀  I'm open for collaborations and jobs
