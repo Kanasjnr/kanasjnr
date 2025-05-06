@@ -2,7 +2,7 @@
 
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=SOFTWARE+ENGINEER;PRODUCT+DESIGNER;BLOCKCHAIN+DEVELOPER)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=SOFTWARE+ENGINEER;BLOCKCHAIN+DEVELOPER)](https://git.io/typing-svg)
 
 
 <p> I specialize in creating robust, secure, and innovative solutions. With over a year of hands-on experience, I craft efficient and user-centric digital experiences, ranging from web applications to decentralized platforms.
