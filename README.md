@@ -5,7 +5,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=SOFTWARE+ENGINEER;BLOCKCHAIN+DEVELOPER)](https://git.io/typing-svg)
 
 
-<p> I specialize in creating robust, secure, and innovative solutions. With over a year of hands-on experience, I craft efficient and user-centric digital experiences, ranging from web applications to decentralized platforms.
+<p> I specialize in creating robust, secure, and innovative solutions.I craft efficient and user-centric digital experiences, ranging from web applications to decentralized platforms.
 My expertise spans modern web technologies, smart contract development on blockchain networks, and leveraging cutting-edge tools and frameworks. I am passionate about delivering high-impact solutions that bridge the gap between traditional and decentralized technologies.</p>
 <br/>
 
