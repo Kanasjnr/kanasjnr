@@ -10,9 +10,6 @@ My expertise spans modern web technologies, smart contract development on blockc
 <br/>
 
 
-<a href="https://app.daily.dev/kanas_jnr"><img src="https://api.daily.dev/devcards/v2/VVienUsiOWsFlCAPm25kl.png?type=wide&r=u0s" width="652" alt="Kanas's Dev Card"/></a>
-<br/>
-
 ### About Me:
 * ✍️  Check out my contents at [Medium](https://medium.com/@nasihudeen04) 
 * ✉️  You can contact me via [Mail](mailto:nasihudeen04@gmail.com)
