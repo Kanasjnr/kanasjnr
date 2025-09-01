@@ -9,6 +9,9 @@
 My expertise spans modern web technologies, smart contract development on blockchain networks, and leveraging cutting-edge tools and frameworks. I am passionate about delivering high-impact solutions that bridge the gap between traditional and decentralized technologies.</p>
 <br/>
 
+<p align="center">
+  <img width="625" height="212" alt="291520797-5fd22ef9-bb01-4801-ae7d-87b888f170fd" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" />
+</p>
 
 ### About Me:
 * ✍️  Check out my contents at [Medium](https://medium.com/@nasihudeen04) 
