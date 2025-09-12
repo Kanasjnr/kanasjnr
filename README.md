@@ -1,49 +1,39 @@
 <h2 align="center"><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,</b> I'm Jimoh Nasihudeen Adegboyega</h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=BLOCKCHAIN+ENGINEER;SMART+CONTRACT+ARCHITECT;PBA+ALUMNI)](https://git.io/typing-svg)
 
+<p>
+As a <b>Blockchain Engineer</b> and proud <b>Polkadot Blockchain Academy (PBA) Alumni</b>, I specialize in designing, developing, and deploying decentralized systems and protocols.  
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=SOFTWARE+ENGINEER;BLOCKCHAIN+DEVELOPER)](https://git.io/typing-svg)
+My expertise spans:  
+- <b>Smart Contract Engineering</b> (Solidity, Ink!)  
+- <b>Protocol & Infrastructure</b> (Consensus, Governance, Cross-chain Systems)  
+- <b>Decentralized Finance (DeFi) & ReFi</b> (Tokenization, DAOs, On-chain Mechanisms)  
 
-
-<p> I specialize in creating robust, secure, and innovative solutions.I craft efficient and user-centric digital experiences, ranging from web applications to decentralized platforms.
-My expertise spans modern web technologies, smart contract development on blockchain networks, and leveraging cutting-edge tools and frameworks. I am passionate about delivering high-impact solutions that bridge the gap between traditional and decentralized technologies.</p>
+I’m on a mission to contribute to Web3 infrastructure that empowers communities, bridges traditional and decentralized finance, and accelerates blockchain adoption globally.  
+</p>
 <br/>
 
 <p align="center">
-  <img width="625" height="212" alt="291520797-5fd22ef9-bb01-4801-ae7d-87b888f170fd" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" />
+  <img width="625" height="212" alt="profile-banner" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" />
 </p>
 
 ### About Me:
-* ✍️  Check out my contents at [Medium](https://medium.com/@nasihudeen04) 
-* ✉️  You can contact me via [Mail](mailto:nasihudeen04@gmail.com)
-* 🚀  I'm open for collaborations and jobs
-* 🧠  I'm currently learning Rust 
+* ✍️  Sharing blockchain insights on [Medium](https://medium.com/@nasihudeen04)  
+* ✉️  Reach me via [Mail](mailto:nasihudeen04@gmail.com)  
+* 🚀  Open to blockchain collaborations, research, and engineering roles  
+* 🧠  Currently mastering Rust & Substrate for protocol engineering  
+* 🌐  PBA Alumni — contributing to the future of decentralized systems  
 
 <br/>
 <br/>
+
 
 <h3>📩 Let's Connect! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3> 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jimoh-adegboyega-356aa2210/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/KanasJnr)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nasihudeen04@gmail.com)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
-</p>
-
 
 
 ### Stats
