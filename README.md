@@ -9,7 +9,7 @@
 ---
 
 ###  About Me
-I am a **Blockchain Engineer** and proud **Polkadot Blockchain Academy (PBA) Alumni** specializing in the design, development, and deployment of decentralized systems and protocols.  
+I am a **Blockchain Engineer** specializing in the design, development, and deployment of decentralized systems and protocols.  
 
 **Core Expertise**  
 -  **Smart Contracts** (Solidity, Ink!)  
