@@ -32,5 +32,7 @@ I am a **Blockchain Engineer** specializing in the design, development, and depl
 ---
 
 ###  GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanasjnr&show_icons=true&locale=en&layout=compact" alt="kanasjnr" /></p>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanasjnr&show_icons=true&locale=en" alt="kanasjnr" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kanasjnr&show_icons=true&locale=en&layout=compact" alt="Kanasjnr" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanasjnr&show_icons=true&locale=en" alt="Kanasjnr" /></p>  
+
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanasjnr&theme=algolia" alt="Stat Streak" /></p>
