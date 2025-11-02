@@ -2,22 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=Blockchain+Engineer)](https://git.io/typing-svg)
 
-<p align="center">
-  <img width="625" height="212" alt="profile-banner" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" />
-</p>
-
 ---
 
 ###  About Me
 I am a **Blockchain Engineer** specializing in the design, development, and deployment of decentralized systems and protocols.  
 
 **Core Expertise**  
--  **Smart Contracts** (Solidity, Ink!)  
--  **Protocol & Infrastructure** (Consensus, Governance, Cross-chain Systems)  
--  **DeFi & ReFi** (Tokenization, DAOs, On-chain Mechanisms)  
+-  **Smart Contracts** 
+-  **Protocol & Infrastructure**  
+-  **DeFi & ReFi** 
 -  Currently mastering **Rust & Substrate** for protocol engineering  
 
- My mission is to contribute to Web3 infrastructure that empowers communities, bridges TradFi and DeFi, and accelerates global blockchain adoption.  
+ My mission is to contribute to Web3 infrastructure that empowers communities and accelerates global blockchain adoption.  
 
 ---
 
