@@ -1,36 +1,39 @@
-<h2 align="center"><b>Hi there 👋, I'm Jimoh Nasihudeen Adegboyega</b></h2>
+## Hi there 👋, I'm Jimoh Nasihudeen Adegboyega
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=Blockchain+Engineer)](https://git.io/typing-svg)
-
----
-
-###  About Me
-I am a **Blockchain Engineer** specializing in the design, development, and deployment of decentralized systems and protocols.  
-
-**Core Expertise**  
--  **Smart Contracts** 
--  **Protocol & Infrastructure**  
--  **DeFi & ReFi** 
--  Currently mastering **Rust & Substrate** for protocol engineering  
-
- My mission is to contribute to Web3 infrastructure that empowers communities and accelerates global blockchain adoption.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=Developer+Relations+Engineer+%7C+Blockchain+Engineer)](https://git.io/typing-svg)
 
 ---
 
-###  Connect With Me  
+### About Me
+I’m a **Developer Relations Engineer** with a background in **Blockchain Engineering**. I enjoy working closely with developers and helping them understand how to build real products on top of blockchain infrastructure.
+
+My is between **engineering and community** from writing docs and tutorials, building examples, supporting developers, and turning complex protocol ideas into things that are easy to understand and use.
+
+**What I work on**
+- Developer advocacy and support  
+- Technical writing and documentation  
+- Smart contracts and protocol development  
+- Developer tooling and SDKs  
+
+I’m currently spending a lot of time learning **Rust and Substrate**, with a focus on protocol-level development in the Polkadot ecosystem.
+
+Overall, I care about making Web3 tools **clear, practical, and developer-friendly**, so more people can confidently build with them.
+
+---
+
+### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimoh-adegboyega-356aa2210/)  
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KanasJnr)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasihudeen04@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasihudeen04@gmail.com)  
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nasihudeen04)  
 
 ---
 
-###  Public On-chain Identities  
--  Polkadot: `12pCUGSwoW4Xek48TLUHCFhrvAdjmciMMLJoRJD8HWP5saXH`  
--  Ethereum / ENS: `nasihudeen.eth`  
+### Public On-chain Identities
+- **Polkadot**: `12pCUGSwoW4Xek48TLUHCFhrvAdjmciMMLJoRJD8HWP5saXH`
+- **Ethereum / ENS**: `nasihudeen.eth`
 
 ---
 
-###  GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kanasjnr&show_icons=true&locale=en&layout=compact" alt="Kanasjnr" /></p>  
-
+### GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kanasjnr&show_icons=true&locale=en&layout=compact)
