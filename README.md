@@ -7,7 +7,7 @@
 ### About Me
 I’m a **Developer Relations Engineer** with a background in **Blockchain Engineering**. I enjoy working closely with developers and helping them understand how to build real products on top of blockchain infrastructure.
 
-My is between **engineering and community** from writing docs and tutorials, building examples, supporting developers, and turning complex protocol ideas into things that are easy to understand and use.
+My work is between **engineering and community** from writing docs and tutorials, building examples, supporting developers, and turning complex protocol ideas into things that are easy to understand and use.
 
 **What I work on**
 - Developer advocacy and support  
