@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Jimoh Nasihudeen Adegboyega
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=Developer+Relations+Engineer+%7C+Blockchain+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=Developer+Relations+Engineer)](https://git.io/typing-svg)
 
 ---
 
