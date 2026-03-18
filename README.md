@@ -27,11 +27,6 @@ Overall, I care about making Web3 tools **clear, practical, and developer-friend
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasihudeen04@gmail.com)  
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nasihudeen04)  
 
----
-
-### Public On-chain Identities
-- **Polkadot**: `12pCUGSwoW4Xek48TLUHCFhrvAdjmciMMLJoRJD8HWP5saXH`
-- **Ethereum / ENS**: `nasihudeen.eth`
 
 ---
 
