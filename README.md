@@ -37,3 +37,5 @@ Overall, I care about making Web3 tools **clear, practical, and developer-friend
 
 ### GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kanasjnr&show_icons=true&locale=en&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanasjnr)](https://github.com/anuraghazra/github-readme-stats)
+
